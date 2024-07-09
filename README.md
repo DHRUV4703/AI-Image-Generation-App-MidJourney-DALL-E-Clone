@@ -1,3 +1,5 @@
+AI Image Generation App: MidJourney & DALL-E Clone
+
 Overview
 This project is a full-stack MERN (MongoDB, Express, React, Node.js) application for AI image generation, inspired by MidJourney and DALL-E. Users can generate images based on text prompts using advanced AI models.
 
